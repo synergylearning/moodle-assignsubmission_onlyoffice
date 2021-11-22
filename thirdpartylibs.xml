@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<libraries>
+  <library>
+      <location>vendor/firebase/php-jwt/</location>
+      <name>firebase/php-jwt</name>
+      <license>BSD</license>
+      <version>v5.0.0</version>
+  </library>
+</libraries>
