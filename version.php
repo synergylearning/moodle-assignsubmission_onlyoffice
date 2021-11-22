@@ -28,3 +28,4 @@ $plugin->version = 2021061600;
 $plugin->requires = 2020061502; // Moodle 3.9.2.
 $plugin->component = 'assignsubmission_onlyoffice';
 $plugin->maturity = MATURITY_STABLE;
+$plugin->release = '1.0';
